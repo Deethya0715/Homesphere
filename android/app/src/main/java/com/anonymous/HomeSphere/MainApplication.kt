@@ -1,4 +1,4 @@
-package com.homesphere
+package com.anonymous.HomeSphere
 
 import android.app.Application
 import android.content.res.Configuration

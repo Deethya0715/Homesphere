@@ -2,6 +2,12 @@
   "expo": {
     "name": "HomeSphere",
     "slug": "HomeSphere",
-    "version": "1.0.0"
+    "displayName": "HomeSphere",
+    "scheme": "HomeSphere",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.HomeSphere"
+    },
+    "newArchEnabled": true
   }
 }

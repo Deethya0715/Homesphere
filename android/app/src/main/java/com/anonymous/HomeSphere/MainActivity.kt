@@ -1,4 +1,4 @@
-package com.homesphere
+package com.anonymous.HomeSphere
 
 import android.os.Build
 import android.os.Bundle
